@@ -16,7 +16,8 @@ function App() {
 
   // 🔹 Setup WebSocket
   useEffect(() => {
-    ws.current = new WebSocket(`${import.meta.env.VITE_WS_URL}}`);
+    console.log(import.meta.env.VITE_WS_URL)
+    ws.current = new WebSocket(`${import.meta.env.VITE_WS_URL}`);
 
     ws.current.onopen = () => {
       console.log("WebSocket connected");
