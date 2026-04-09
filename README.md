@@ -7,8 +7,8 @@ This is a full-stack web application that fetches posts from an external API, st
 
 ## 🔗 Live Links
 
-- 🌐 Frontend (Vercel): https://your-frontend.vercel.app  
-- ⚙️ Backend (Render): https://your-backend.onrender.com  
+- 🌐 Frontend (Vercel): https://prime-innovation-task.vercel.app/ 
+- ⚙️ Backend (Render): https://prime-innovation-task-api.onrender.com
 
 ---
 
@@ -109,7 +109,7 @@ PORT=5000
 ## ▶️ Run Locally
 
 1. Clone repo
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/kaneki-desu/prime-innovation-task
 cd your-repo
 
 2. Backend setup
